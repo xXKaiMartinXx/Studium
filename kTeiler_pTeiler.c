@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-    PVL1 - Aufgabe 5
-    Kai Martin Tüllmann (MNR: 30257832)
-    16/05/2022
-*/
-
 int main(void)
 {
     //ConsoleSelect: Aufgabe 5.1/.2, Aufgabe 5.3 und Exit
